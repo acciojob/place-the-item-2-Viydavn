@@ -1,2 +1,18 @@
-
-/* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+.box{
+	min-height:200px;
+	min-width:200px;
+}
+.box1{
+	background:green;
+}
+.box2{
+	background:red;
+}
+.box3{
+	background:blue;
+}
